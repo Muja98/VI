@@ -1,0 +1,12 @@
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\bin\Debug\FaceDetectionAnRecognition.exe.config
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\bin\Debug\FaceDetectionAnRecognition.exe
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\bin\Debug\FaceDetectionAnRecognition.pdb
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\obj\Debug\FaceDetectionAnRecognition.csprojResolveAssemblyReference.cache
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\obj\Debug\FaceDetectionAnRecognition.Properties.Resources.resources
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\obj\Debug\FaceDetectionAnRecognition.csproj.GenerateResource.Cache
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\obj\Debug\FaceDetectionAnRecognition.exe
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\obj\Debug\FaceDetectionAnRecognition.pdb
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\bin\Debug\Emgu.CV.xml
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\bin\Debug\Emgu.CV.UI.xml
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\bin\Debug\Emgu.Util.xml
+E:\Practice\VI\FaceDetectionAnRecognition\FaceDetectionAnRecognition\obj\Debug\FaceDetectionAnRecognition.Form1.resources
